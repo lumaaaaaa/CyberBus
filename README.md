@@ -3,7 +3,7 @@ Whether you're just lazy, or you simply don't appreciate the joy of driving a bu
 
 CyberBus is a bot that plays Desert Bus using the power of OCR. Now with 100% more Autopilot.
 
-Precompiled binaries can be found at http://cyberbus.xyz/
+Precompiled binaries can be found at http://luma.pw/
 
 This will probably only work on the Kega Fusion emulator due to very tiny color differences. Attempts with Gens v2.14 have failed and required new color values to be found.
 
