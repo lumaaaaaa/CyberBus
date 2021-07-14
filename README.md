@@ -1,5 +1,5 @@
 # CyberBus
-Whether you're just lazy, or you simply don't appreciate the joy of driving a bus in the desert for hours, I have just the thing for you. CyberBus (thanks for the name Elon)!
+Whether you're just lazy, or you simply don't appreciate the joy of driving a bus in the desert for hours, I have just the thing for you. CyberBus.
 
 CyberBus is a bot that plays Desert Bus using the power of OCR. Now with 100% more Autopilot.
 
